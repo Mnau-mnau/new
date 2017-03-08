@@ -5,8 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>THIS IS A FILE</title>
+    <style>
+        .some{
+            background-color:pink;
+            width:400px;
+            height:400px;
+            margin:auto;
+        }
+    </style>
 </head>
 <body>
-    testing how to branch
+    <h1 style="text-align:center;">I am a heading</h1>
+    <div class="some">
+        <h3>So here we are, in a box</h3>
+    </div>
 </body>
 </html>
