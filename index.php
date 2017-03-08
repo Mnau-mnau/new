@@ -16,6 +16,7 @@
 </head>
 <body>
     <h1 style="text-align:center;">I am a heading</h1>
+    <img src="github.png"/>
     <div class="some">
         <h3>So here we are, in a box</h3>
     </div>
